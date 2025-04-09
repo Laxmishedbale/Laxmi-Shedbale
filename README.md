@@ -20,8 +20,12 @@ Java
 [LinkedIn](https://www.linkedin.com/in/laxmi-shedbale-3a0462265/)
 
 ### GitHub Stat
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[yourusername](https://github.com/Laxmishedbale/Laxmi-Shedbale/pulse)&show_icons=true&theme=tokyonight" alt="Laxmi's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LaxmiShedbale&show_icons=true&theme=tokyonight" alt="Laxmi's GitHub stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[yourusername](https://github.com/Laxmishedbale/Laxmi-Shedbale/pulse)&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+
+### Certificates
+[Internship Certificate](https://drive.google.com/file/d/1Cp8gQ8nqXgZCss4geI_GrYJ4ktppVYid/view?usp=sharing)
