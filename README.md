@@ -1,8 +1,12 @@
 ### Hi,I am Laxmi 👋
 
 I am currently learning Jr.Java Full Stack Developmnt from Maharashtra
-###About Me:
+###About Me
+...
+
 ###Currently Learning
+Java
+
 ###Techninal Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
